@@ -1,9 +1,18 @@
-# SECT Global Community
-*We're late... but iconic.* 😎
-
+<!-- SECT Global Community GitHub Org ReadMe -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Code+Vibes+%7C+Global+Tribe;No+Gatekeeping+%7C+Just+Growth;Building+Tomorrow's+Devs+Today" alt="Typing SVG" />
 </div>
+
+
+# SECT Global Community
+*We're late... but iconic.* 😎
+
+
+> *We pulled up late to GitHub, but we brought snacks, sass, and source code.*  
+> Welcome to the **Society of Engineering & Computer Technology** — where the only thing more chaotic than our commit history is our group chat. 😌
+
+Born as an open-source cult (jk... kinda).  
+Now? We’re a full-blown **global tech fam™️** helping students build, learn & vibe louder than their Wi-Fi.
 
 ---
 
@@ -17,22 +26,6 @@ We're not just another tech community. We're that friend who actually replies to
 
 ---
 
-## 🎯 What We Actually Ship
-
-**Plot twist:** We don't just tweet about coding. We actually code.
-
-### 🚀 **Live Projects**
-- **[SECT-IP](https://github.com/SECT-Community/SECT-IP)** — Internships that don't suck
-- **[ResumeCraft](https://github.com/SECT-Community/ResumeCraft)** — CVs that actually get callbacks  
-- **[LearnWithSECT](https://github.com/SECT-Community/LearnWithSECT)** — Resources without the fluff
-
-### 💡 **What We're Cooking**
-- Global hackathons (prizes included, obviously)
-- Mentorship that goes beyond "just Google it"
-- Open source contributions that matter
-- Career guidance from people who've been there
-
----
 
 ## 🎪 Join the Circus
 
@@ -48,6 +41,20 @@ We're not just another tech community. We're that friend who actually replies to
 - Gatekeepers (we don't do that here)
 
 ---
+
+
+### 🛸 Our GitHub = Organized Chaos
+
+<div align="center">
+
+| 🚀 Project        | 🔥 Status     | ⚡ TL;DR |
+|------------------|---------------|----------|
+| More dropping soon 👀 | ⏳ | We're not sleeping. We're in dev mode. |
+
+</div>
+
+---
+
 
 ## 🌍 Find Your Tribe
 
@@ -92,14 +99,14 @@ const sectStack = {
 
 Questions? Ideas? Just want to say hi?
 
-📧 **Email:** tejas.jadhav.cse@gmail.com  
+📧 **Email:** sect.club@sandipunivsrsity.edu.in  
 ⚡ **Response time:** Usually instant (unless we're debugging, then it's complicated)
 
 ---
 
 <div align="center">
   
-**Made with 💜 by SECT Global Community**
+**Made with ❤️ by SECT Global Community**
 
 *Because the best code is written together.*
 
